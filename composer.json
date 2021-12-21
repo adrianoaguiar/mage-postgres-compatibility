@@ -1,9 +1,8 @@
 {
-    "name": "kirmorozov/mage-postgres-compatibility",
+    "name": "adrianoaguiar/mage-postgres-compatibility",
     "description": "Magento Compatibility with Postgres",
     "require": {
         "php": ">=7.4.0",
-        "magento/framework": "*",
         "ext-pdo_pgsql": "*"
     },
     "type": "magento2-module",
